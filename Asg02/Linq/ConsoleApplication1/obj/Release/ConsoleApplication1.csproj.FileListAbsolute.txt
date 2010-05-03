@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

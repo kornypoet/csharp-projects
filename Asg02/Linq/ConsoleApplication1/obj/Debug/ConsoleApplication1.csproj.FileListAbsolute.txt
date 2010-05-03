@@ -1,0 +1,12 @@
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Linq\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Linq\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

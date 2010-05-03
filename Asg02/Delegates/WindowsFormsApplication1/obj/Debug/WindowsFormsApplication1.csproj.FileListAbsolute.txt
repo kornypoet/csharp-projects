@@ -1,0 +1,23 @@
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Delegates\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\DLUStudent.LATC214A018.001\My Documents\Visual Studio 2008\Projects\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Delegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Delegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Delegates\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\User\My Documents\School\Travis\CO 229\Delegates\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

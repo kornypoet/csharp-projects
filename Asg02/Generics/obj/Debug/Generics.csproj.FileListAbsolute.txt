@@ -1,0 +1,15 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Generics\bin\Debug\Generics.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Generics\bin\Debug\Generics.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Generics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Generics\obj\Debug\Generics.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Generics\obj\Debug\Generics.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Generics\obj\Debug\Generics.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Generics\obj\Debug\Generics.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Generics\bin\Debug\Generics.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Generics\bin\Debug\Generics.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Generics\obj\Debug\ResolveAssemblyReference.cache
+E:\Generics\obj\Debug\Generics.exe
+E:\Generics\obj\Debug\Generics.pdb
+E:\Generics\bin\Debug\Generics.exe
+E:\Generics\bin\Debug\Generics.pdb
+E:\Generics\obj\Debug\ResolveAssemblyReference.cache
