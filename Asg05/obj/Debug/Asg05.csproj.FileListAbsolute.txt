@@ -1,0 +1,10 @@
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg05\bin\Debug\Asg05.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg05\bin\Debug\Asg05.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg05\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg05\obj\Debug\Asg05.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg05\obj\Debug\Asg05.pdb
+E:\Asg05\obj\Debug\Asg05.exe
+E:\Asg05\obj\Debug\Asg05.pdb
+E:\Asg05\obj\Debug\ResolveAssemblyReference.cache
+E:\Asg05\bin\Debug\Asg05.exe
+E:\Asg05\bin\Debug\Asg05.pdb
