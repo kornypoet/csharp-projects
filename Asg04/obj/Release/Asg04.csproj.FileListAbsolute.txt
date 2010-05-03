@@ -1,0 +1,10 @@
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\bin\Release\Asg04.exe.config
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\bin\Release\Asg04.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\bin\Release\Asg04.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\obj\Release\Asg04.MainForm.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\obj\Release\Asg04.Properties.Resources.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\obj\Release\Asg04.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\obj\Release\Asg04.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\obj\Release\Asg04.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg04\bin\Release\Asg04.accdb
