@@ -1,0 +1,16 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\obj\Debug\Asg01.Properties.Resources.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\obj\Debug\Asg01.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\bin\Debug\Asg01.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\bin\Debug\Asg01.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\obj\Debug\Asg01.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\obj\Debug\Asg01.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Asg01\obj\Debug\Asg01.Form1.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\obj\Debug\Asg01.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\obj\Debug\Asg01.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\bin\Debug\Asg01.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\bin\Debug\Asg01.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\obj\Debug\Asg01.Form1.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\obj\Debug\Asg01.Properties.Resources.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\Asg01\obj\Debug\Asg01.csproj.GenerateResource.Cache
